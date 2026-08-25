@@ -321,7 +321,7 @@
             "last_commit": "2026-08-19T22:07:12Z",
             "owner": "mackron",
             "repo": "miniaudio",
-            "stars": 7177
+            "stars": 7178
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-19T22:07:12Z",
             "owner": "mackron",
             "repo": "miniaudio",
-            "stars": 7177
+            "stars": 7178
           }
         },
         {
@@ -1218,7 +1218,7 @@
             "archived": false,
             "id": 11171548,
             "language": "C++",
-            "last_commit": "2026-08-21T15:43:56Z",
+            "last_commit": "2026-08-25T06:20:14Z",
             "owner": "nlohmann",
             "repo": "json",
             "stars": 50457
@@ -1233,7 +1233,7 @@
             "archived": false,
             "id": 11171548,
             "language": "C++",
-            "last_commit": "2026-08-21T15:43:56Z",
+            "last_commit": "2026-08-25T06:20:14Z",
             "owner": "nlohmann",
             "repo": "json",
             "stars": 50457
@@ -4155,7 +4155,7 @@
             "last_commit": "2026-08-24T21:30:41Z",
             "owner": "yhirose",
             "repo": "cpp-httplib",
-            "stars": 16769
+            "stars": 16771
           }
         },
         {
@@ -4170,7 +4170,7 @@
             "last_commit": "2026-08-24T21:30:41Z",
             "owner": "yhirose",
             "repo": "cpp-httplib",
-            "stars": 16769
+            "stars": 16771
           }
         },
         {
@@ -7730,7 +7730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:52:15.203Z",
+    "last_updated": "2026-08-25T06:28:35.640Z",
     "original_repository": "p-ranav/awesome-hpp",
     "original_repository_id": 288259478,
     "original_repository_sha": "adc437aedc01d256171efb5cf55a90b75f74b0c1",
